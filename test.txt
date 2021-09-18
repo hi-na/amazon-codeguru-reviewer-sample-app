@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-create new file on master
-=======
-pull request test!
->>>>>>> pull request test
+### create new file on master
+modified by hi-na then will marged from dev. xxx
